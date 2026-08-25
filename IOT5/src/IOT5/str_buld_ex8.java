@@ -6,7 +6,7 @@ public class str_buld_ex8 {
 		int target= 7;
 		int start=0;
 		int sum=0;
-		int minlength= numbers.length;
+		int minlength= numbers.length-1;
 		for(int end=0;end<numbers.length;end++) {
 			sum = sum + numbers[end];
 			while(sum>target) {
