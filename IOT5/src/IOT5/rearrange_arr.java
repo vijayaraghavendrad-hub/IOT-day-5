@@ -20,4 +20,3 @@ public class rearrange_arr {
 	        }
 	    }
 	}
-
